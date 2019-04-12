@@ -1,0 +1,23 @@
+.signature {
+  font-family: "Arizonia", cursive;
+  font-size: 30px;
+  text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+}
+
+.mobile img {
+  width: 60% !important;
+  margin: auto;
+}
+
+.portfolio-grid figure a div img {
+  width: 23px;
+  position: absolute;
+  font-size: 24px;
+  bottom: 14px;
+  right: 20px;
+  margin: 0;
+}
+
+.header-title {
+  padding-top: 35px;
+}
